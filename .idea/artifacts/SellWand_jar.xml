@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SellWand:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SellWand_jar</output-path>
+    <root id="archive" name="SellWand.jar">
+      <element id="module-output" name="SellWand" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Vault (2).jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

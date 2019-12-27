@@ -1,0 +1,10 @@
+name: SellWand
+version: ${project.version}
+main: sellwand.sellwand.SellWand
+authors: [LEGITZX]
+
+commands:
+  sellwand:
+    description: Core SellWand command.
+    usage: /sellwand
+    permission: sellwand.admin.give

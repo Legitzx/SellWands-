@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: FredokaOne-Regular
+font link: https://fonts.google.com/specimen/Fredoka+One
+font author: Milena Brandao
+font author site: mailto:milenabbrandao@gmail.com
+
+
+icon designer: Jetro Cabau Quirós
+icon designer link: /Jetro
+        
+{"bg-gradient-0":"#5106FF","bg-gradient-1":"#61CBF2","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      

@@ -1,0 +1,10 @@
+name: SellWand
+version: 1.0-SNAPSHOT
+main: sellwand.sellwand.SellWand
+authors: [LEGITZX]
+
+commands:
+  sellwand:
+    description: Core SellWand command.
+    usage: /sellwand
+    permission: sellwand.admin.give

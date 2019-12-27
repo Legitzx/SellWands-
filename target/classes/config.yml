@@ -1,0 +1,10 @@
+# Names of the sellwands
+infinite-sellwand: "SellWand" # Infinite Sell Wand
+limited-sellwand: "SellWanD" # SellWand that has x amount of uses
+
+# Items that the sellwand can SELL
+# Use https://opiu.ms/ for minecraft names
+# If that does not work, use /sellwand getid
+# This will get the name of the item that you are currently holding!
+BAKED_POTATO: 3000
+IRON_INGOT: 1000
